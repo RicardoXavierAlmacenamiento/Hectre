@@ -1,126 +1,139 @@
 Laboratorio Medico Hectre,,,,,,,,,,,,,,,
 Entradas y Salidas,,,,,,,,,,,,,,,
-2022/04/29- 2022/05/13,,,,,,,,,,,,,ID: ,13052022234444,
+2022/06/14- 2022/06/29,,,,,,,,,,,,,ID: ,30062022003113,
 "Número de
 empleado",Id de nómina,Nombre,,Estado del empleado,Sucursal,Fecha,Nombre del turno,Hora de entrada del ,Hora de salida del ,Hora de entrada,Hora de salida,Tiempo de trabajo,Tiempo de descanso,Tiempo de la ,Estatus
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,11:23 AM,,,,,Registros incompletos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,06:59 AM,,,,,Registros incompletos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,10:25 AM,,,,,Registros incompletos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,09:17 AM,,,,,Registros incompletos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,07:12 AM,,,,,Registros incompletos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,08:13 AM,,,,,Registros incompletos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,09:50 AM,,,,,Registros incompletos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,07:27 AM,,,,,Registros incompletos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/13,Turno de trabajo default,1:00 AM,11:00 PM,07:22 AM,,,,,Registros incompletos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,10:08 AM,,,,,Registros incompletos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,06:57 AM,2:58 PM,8:01:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,6:20 PM,,,,,Registros incompletos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,09:03 AM,3:06 PM,6:02:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,07:12 AM,5:03 PM,9:50:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,4:30 PM,,,,,Registros incompletos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,07:29 AM,3:32 PM,8:03:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,09:55 AM,6:18 PM,8:22:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/12,Turno de trabajo default,1:00 AM,11:00 PM,07:19 AM,,,,,Registros incompletos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,10:29 AM,6:15 PM,7:46:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,06:34 AM,,,,,Registros incompletos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,09:05 AM,3:12 PM,6:06:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,06:58 AM,2:57 PM,7:59:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,4:59 PM,9:54:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,09:28 AM,6:18 PM,8:50:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,07:38 AM,3:30 PM,7:51:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,08:09 AM,4:54 PM,8:45:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/11,Turno de trabajo default,1:00 AM,11:00 PM,09:44 AM,6:18 PM,8:33:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,10:10 AM,6:06 PM,7:56:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,09:05 AM,1:59 PM,4:54:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,06:43 AM,,,,,Registros incompletos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,07:09 AM,5:00 PM,9:50:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,1:55 PM,6:44:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,09:30 AM,6:06 PM,8:35:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,07:08 AM,3:07 PM,7:59:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,08:02 AM,4:24 PM,8:22:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,09:50 AM,6:04 PM,8:13:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/10,Turno de trabajo default,1:00 AM,11:00 PM,07:27 AM,3:11 PM,7:44:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,09:01 AM,3:03 PM,6:01:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,09:54 AM,6:06 PM,8:11:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,06:40 AM,3:01 PM,8:20:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,07:01 AM,6:05 PM,,,,Registros incompletos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,08:01 AM,4:09 PM,8:07:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,07:45 AM,3:36 PM,7:50:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,06:59 AM,2:58 PM,7:59:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,08:52 AM,6:06 PM,9:13:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/09,Turno de trabajo default,1:00 AM,11:00 PM,07:30 AM,4:43 PM,9:13:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,08:59 AM,3:02 PM,6:02:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,06:29 AM,2:51 PM,8:22:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,07:07 AM,3:17 PM,8:09:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,07:48 AM,3:02 PM,7:14:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,07:10 AM,3:08 PM,7:58:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,07:08 AM,3:17 PM,8:09:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,3:01 PM,7:57:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/07,Turno de trabajo default,1:00 AM,11:00 PM,2:59 PM,,,,,Registros incompletos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,06:36 AM,,,,,Registros incompletos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,09:03 AM,3:01 PM,5:58:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,07:12 AM,6:01 PM,10:48:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,08:06 AM,4:15 PM,8:09:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,09:16 AM,6:18 PM,9:01:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,07:05 AM,1:17 PM,,,,Registros incompletos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,06:56 AM,3:02 PM,8:05:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/06,Turno de trabajo default,1:00 AM,11:00 PM,07:14 AM,4:46 PM,9:31:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,06:38 AM,3:01 PM,8:22:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,09:50 AM,6:22 PM,8:31:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,09:01 AM,3:03 PM,6:01:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,08:01 AM,4:12 PM,8:11:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,07:06 AM,6:07 PM,11:01:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,10:10 AM,6:11 PM,8:01:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,09:20 AM,6:10 PM,8:50:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,3:26 PM,8:22:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,07:02 AM,2:57 PM,7:55:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/05,Turno de trabajo default,1:00 AM,11:00 PM,07:25 AM,3:18 PM,7:53:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,06:34 AM,3:01 PM,8:26:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,08:59 AM,3:01 PM,6:01:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,10:24 AM,6:06 PM,7:42:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,07:59 AM,4:23 PM,8:24:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,10:06 AM,6:05 PM,7:59:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,5:06 PM,10:01:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,09:14 AM,6:05 PM,8:50:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,06:59 AM,2:58 PM,7:59:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,07:06 AM,3:24 PM,8:18:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/04,Turno de trabajo default,1:00 AM,11:00 PM,07:21 AM,4:20 PM,8:58:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,06:33 AM,2:58 PM,8:24:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,09:06 AM,3:08 PM,6:01:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,08:00 AM,4:14 PM,8:13:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,10:06 AM,6:15 PM,8:09:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,10:06 AM,6:38 PM,8:31:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,07:46 AM,4:31 PM,8:45:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,07:00 AM,3:01 PM,8:01:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,06:59 AM,5:00 PM,10:01:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,09:06 AM,6:15 PM,9:09:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/03,Turno de trabajo default,1:00 AM,11:00 PM,07:17 AM,3:37 PM,8:20:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,06:31 AM,,,,,Registros incompletos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,09:00 AM,3:07 PM,6:06:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,08:04 AM,4:14 PM,8:09:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,10:13 AM,6:35 PM,8:22:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,09:58 AM,6:08 PM,8:09:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,07:31 AM,11:02 AM,3:30:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,07:03 AM,2:58 PM,7:55:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,4:49 PM,9:37:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,07:23 AM,3:34 PM,8:11:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/05/02,Turno de trabajo default,1:00 AM,11:00 PM,08:35 AM,6:08 PM,9:33:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,06:24 AM,3:10 PM,8:46:00,,,Registros completos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,3:02 PM,7:58:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,08:18 AM,2:50 PM,6:31:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,08:47 AM,2:59 PM,6:12:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,07:05 AM,3:10 PM,8:05:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,3:04 PM,,,,,Registros incompletos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,07:09 AM,3:16 PM,8:07:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,3:03 PM,7:51:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/04/30,Turno de trabajo default,1:00 AM,11:00 PM,07:18 AM,3:10 PM,7:51:00,,,Registros completos
-16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,09:10 AM,,,,,Registros incompletos
-17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,09:58 AM,6:00 PM,8:01:00,,,Registros completos
-12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,06:36 AM,2:49 PM,8:13:00,,,Registros completos
-9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,08:59 AM,2:25 PM,5:26:00,,,Registros completos
-8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,07:06 AM,3:43 PM,8:37:00,,,Registros completos
-13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,07:57 AM,4:22 PM,8:24:00,,,Registros completos
-19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,10:10 AM,6:02 PM,7:51:00,,,Registros completos
-2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,07:41 AM,3:39 PM,7:58:00,,,Registros completos
-5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,2:57 PM,7:53:00,,,Registros completos
-7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/04/29,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,5:56 PM,10:52:00,,,Registros completos
+20,20,,ITZEL ESTRADA CARRASCO,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,07:02 AM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,10:03 AM,,,,,Registros incompletos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,06:40 AM,,,,,Registros incompletos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,10:03 AM,,,,,Registros incompletos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,09:53 AM,,,,,Registros incompletos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,08:14 AM,,,,,Registros incompletos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,09:08 AM,,,,,Registros incompletos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,07:15 AM,,,,,Registros incompletos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/29,Turno de trabajo default,1:00 AM,11:00 PM,07:22 AM,,,,,Registros incompletos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,07:06 AM,3:58 PM,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,10:04 AM,6:07 PM,8:03:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,07:03 AM,3:01 PM,7:58:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,09:05 AM,3:08 PM,6:02:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,10:04 AM,6:08 PM,8:03:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,08:15 AM,3:08 PM,6:53:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,07:07 AM,5:08 PM,10:01:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,09:42 AM,6:18 PM,8:35:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/28,Turno de trabajo default,1:00 AM,11:00 PM,07:27 AM,3:43 PM,8:16:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,06:36 AM,,,,,Registros incompletos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,3:01 PM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,09:55 AM,6:14 PM,8:18:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,09:56 AM,6:14 PM,8:18:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,08:07 AM,4:24 PM,8:16:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,09:00 AM,3:19 PM,6:18:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,09:44 AM,6:25 PM,8:41:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,07:12 AM,5:07 PM,9:54:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/27,Turno de trabajo default,1:00 AM,11:00 PM,07:22 AM,3:47 PM,8:24:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,11:21 AM,4:10:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,07:10 AM,3:19 PM,8:09:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,09:35 AM,3:07 PM,5:31:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,06:34 AM,3:05 PM,8:31:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,3:19 PM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,07:10 AM,3:19 PM,8:09:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,09:09 AM,3:08 PM,5:59:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,07:16 AM,3:19 PM,8:03:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/25,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,3:19 PM,8:07:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,3:00 PM,7:48:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,08:11 AM,,,,,Registros incompletos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,08:23 AM,6:27 PM,10:03:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,06:38 AM,,,,,Registros incompletos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,07:07 AM,4:00 PM,8:52:00,,,Registros completos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,10:13 AM,6:27 PM,8:13:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,09:02 AM,3:14 PM,6:12:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,09:56 AM,6:43 PM,8:46:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/24,Turno de trabajo default,1:00 AM,11:00 PM,07:19 AM,3:44 PM,8:24:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,07:02 AM,3:00 PM,7:58:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,08:29 AM,6:21 PM,9:52:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,08:13 AM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,09:31 AM,6:18 PM,8:46:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,06:34 AM,2:58 PM,8:24:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,09:03 AM,3:14 PM,6:11:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,07:14 AM,5:34 PM,10:20:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,09:52 AM,6:21 PM,8:28:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/23,Turno de trabajo default,1:00 AM,11:00 PM,07:35 AM,3:36 PM,8:01:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,07:04 AM,3:00 PM,7:56:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,6:16 PM,,,,,Registros incompletos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,08:15 AM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,09:30 AM,6:15 PM,8:45:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,06:36 AM,,,,,Registros incompletos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,08:58 AM,3:05 PM,6:06:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,07:10 AM,6:06 PM,10:56:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,09:49 AM,6:32 PM,8:43:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/22,Turno de trabajo default,1:00 AM,11:00 PM,07:22 AM,3:33 PM,8:11:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,3:01 PM,,,,,Registros incompletos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,10:05 AM,6:29 PM,8:24:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,08:15 AM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,10:05 AM,6:29 PM,8:24:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,06:41 AM,2:59 PM,8:18:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,09:09 AM,3:07 PM,5:58:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,07:13 AM,6:01 PM,10:48:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,09:53 AM,6:31 PM,8:37:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,07:27 AM,3:43 PM,8:16:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/21,Turno de trabajo default,1:00 AM,11:00 PM,07:19 AM,3:26 PM,8:07:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,07:03 AM,2:59 PM,7:56:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,10:01 AM,6:31 PM,8:30:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,08:13 AM,,,,,Registros incompletos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,09:03 AM,6:31 PM,9:28:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,09:03 AM,3:05 PM,6:01:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,06:41 AM,3:17 PM,8:35:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,09:55 AM,6:45 PM,8:50:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,07:12 AM,6:05 PM,10:52:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,07:23 AM,3:41 PM,8:18:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/20,Turno de trabajo default,1:00 AM,11:00 PM,07:21 AM,3:36 PM,8:15:00,,,Registros completos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,07:22 AM,3:25 PM,8:03:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,3:09 PM,,,,,Registros incompletos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,07:58 AM,3:08 PM,7:10:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,07:22 AM,3:25 PM,8:03:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,09:07 AM,3:06 PM,5:59:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,06:34 AM,3:04 PM,8:30:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,07:11 AM,3:12 PM,8:01:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,07:14 AM,3:38 PM,8:24:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,07:14 AM,3:05 PM,7:50:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/18,Turno de trabajo default,1:00 AM,11:00 PM,08:29 AM,3:11 PM,6:42:00,,,Registros completos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,6:26 PM,,,,,Registros incompletos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,07:13 AM,3:03 PM,7:49:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,06:40 AM,,,,,Registros incompletos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,09:55 AM,6:25 PM,8:30:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,10:03 AM,6:38 PM,8:35:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,07:06 AM,6:05 PM,10:58:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,09:04 AM,3:17 PM,6:13:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,07:23 AM,3:34 PM,8:11:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/17,Turno de trabajo default,1:00 AM,11:00 PM,07:26 AM,3:28 PM,8:01:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,07:00 AM,3:00 PM,8:00:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,09:47 AM,6:41 PM,8:54:00,,,Registros completos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,09:51 AM,6:24 PM,8:33:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,08:11 AM,,,,,Registros incompletos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,09:52 AM,6:19 PM,8:26:00,,,Registros completos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,06:38 AM,3:05 PM,8:26:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,09:11 AM,,,,,Registros incompletos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,07:02 AM,6:04 PM,11:01:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,07:41 AM,3:32 PM,7:50:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/16,Turno de trabajo default,1:00 AM,11:00 PM,07:09 AM,3:49 PM,8:39:00,,,Registros completos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,08:59 AM,3:09 PM,6:10:00,,,Registros completos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,6:56 PM,,,,,Registros incompletos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,07:32 AM,3:34 PM,8:01:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,09:34 AM,6:24 PM,8:50:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,07:05 AM,,,,,Registros incompletos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,4:08 PM,,,,,Registros incompletos
+19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,10:22 AM,6:56 PM,8:33:00,,,Registros completos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,09:24 AM,,,,,Registros incompletos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,07:17 AM,5:15 PM,9:58:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,5:21 PM,,,,,Registros incompletos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/15,Turno de trabajo default,1:00 AM,11:00 PM,06:41 AM,,,,,Registros incompletos
+18,18,,GABRIELA  VILLANUEVA VAZQUEZ,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,09:53 AM,6:21 PM,8:28:00,,,Registros completos
+7,7,,ERIKA UGANDA ALCANTARA CARREON,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,07:09 AM,,,,,Registros incompletos
+9,9,,CATALINA ESCALANTE,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,09:04 AM,3:15 PM,6:11:00,,,Registros completos
+5,5,,MIRIAM ROA ALMANZA,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,07:07 AM,3:06 PM,7:59:00,,,Registros completos
+16,16,,DULCE ARIANA BAUTISTA AGUILAR,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,09:11 AM,6:19 PM,9:07:00,,,Registros completos
+2,2,,MARIA CONCEPCION PADILLA VELOZ,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,07:31 AM,3:40 PM,8:09:00,,,Registros completos
+13,13,,SOFIA GONZALEZ BENITEZ,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,08:11 AM,4:11 PM,8:00:00,,,Registros completos
+17,17,,EDUARDO BERTIN RODRIGUEZ ARELLANO,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,10:09 AM,6:19 PM,8:09:00,,,Registros completos
+19,19,,EVELYN ISABEL  LEMONT HUERTA,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,10:21 AM,6:20 PM,7:59:00,,,Registros completos
+8,8,,MARIA ALEJANDRA CRUZ GOMEZ,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,3:34 PM,,,,,Registros incompletos
+12,12,,ROSA AYALA ESTRADA,Activo,MARIANO ESCOBEDO,2022/06/14,Turno de trabajo default,1:00 AM,11:00 PM,06:44 AM,,,,,Registros incompletos
